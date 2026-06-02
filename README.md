@@ -175,10 +175,6 @@ Add screenshots here:
 
 Aspiring SOC Analyst | Cybersecurity Enthusiast
 
-LinkedIn: Add Your LinkedIn Profile Link
-
-GitHub: Add Your GitHub Profile Link
-
 ---
 
 ## Support
